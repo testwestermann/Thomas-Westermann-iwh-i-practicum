@@ -3,7 +3,7 @@
 Pre-configured for your EU1 test account and custom object:
 - Test account id: **146990843**
 - Custom object type id: **2-192837072**
-- HubSpot list: https://app-eu1.hubspot.com/contacts/146990843/objects/2-192837072/views/all/list
+- HubSpot list: (https://app-eu1.hubspot.com/contacts/146990843/objects/2-192837072/views/all/list)
 
 ## Features
 - 3 routes: `/` (list), `GET /update-cobj` (form), `POST /update-cobj` (create)
