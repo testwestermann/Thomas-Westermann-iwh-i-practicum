@@ -20,10 +20,10 @@ npm start
 # open http://localhost:3000
 ```
 
-## Configure properties (optional)
+## Configure properties
 Set explicit columns/fields using internal names:
 ```
-HUBSPOT_CUSTOM_PROPERTIES=name,bio,species
+HUBSPOT_CUSTOM_PROPERTIES=name, type, color
 ```
 
 ## Troubleshooting
